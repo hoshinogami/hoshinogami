@@ -1,6 +1,6 @@
 
-#尝试 
-##java小游戏
+# java小游戏
+## 尝试
 <!--
 **hoshinogami/hoshinogami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
